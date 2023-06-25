@@ -60,7 +60,7 @@ const SignUp = () => {
     return (
         <div className={styles.container}>
             <form onSubmit={submitHandler} className={styles.formContainer}>
-                <h2 className={styles.header}>SignUp</h2>
+                <h2 className={styles.header}>Sign Up</h2>
                 <div className={styles.formField}>
                     <label>Name</label>
                 <input 
